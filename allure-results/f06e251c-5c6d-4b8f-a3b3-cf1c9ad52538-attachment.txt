@@ -1,0 +1,9 @@
+The value of registered Email is: Elenor90@hotmail.com
+the title is: Your Account Has Been Created!
+the user is on Home Page !!!
+the user is Logged Out of the Application
+the user is Logged Into the application.
+the confirmation message is Success: You have added MacBook to your shopping cart!×
+Sucess-Product Added to Cart
+the value of price 1 is:  $1,204.00
+the value of price 2 is:  MacBook

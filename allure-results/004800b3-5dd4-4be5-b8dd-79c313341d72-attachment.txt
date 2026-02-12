@@ -1,0 +1,2 @@
+The value of registered Email is: Frieda_Dach@hotmail.com
+the value of the Password is : Secret@12345
