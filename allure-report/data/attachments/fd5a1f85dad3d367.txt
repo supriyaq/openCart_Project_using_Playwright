@@ -1,0 +1,2 @@
+the confirmation message is Success: You have added MacBook to your shopping cart!×
+Product sucessfully added to cart !!!
